@@ -1,0 +1,41 @@
+Here is the basic storyboard/plot:
+----------------------------------
+
+Setting: The Fictional Land of Arkadia
+
+Main Character: Your Name...
+
+Possible plots:
+Enter your name player...
+Welcome "PlayerName." Beware Hero, you are about to venture into Ancient Land of Arkadia.
+Everything goes dark
+You wake up in a strange forest. All you can see is an ocean of green. You see 4 prospect that lie ahead you. All you have on you are some plain ragged clothes.
+
+Directions:
+
+South you see the forest grow denser.
+North you see what appears to be river.
+East you see what looks like a ruins of an old castle.
+West you see what looks like the outlines of a small town.
+
+Which direction do you hero? ...
+
+North is the town where you have the ability save your progress and buy/make equipment and materials.
+(You can't enter the town without killing the feral imp first)
+- Once you kill feral imp it will drop feral imp claws
+If you choose to go north there will be a guard guarding the entrance to the town.
+Only option is to talk to him...(He says) "Hello Traveller, I'm sorry but I can't let a stranger into the town. Maybe if you come back later with something of value, I just might let you in."
+
+In the town there will be 3 options:
+Go to the Tavern
+- In the Tavern you can...
+Go to the Blacksmith
+- In the smithery you can...
+Go to the shopkeeper
+- In the shop you can...
+
+Random Ideas:
+-------------
+(For background) You are in the the real world and get sucked into the world of Arkadia.
+Some puzzles for you to solve
+Cool side quest (a wise old man tells u to guess a number between 1 and 50) If you guess right you get a rare material (that you can use to craft a powerful sword).
