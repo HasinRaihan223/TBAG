@@ -1,41 +1,80 @@
+Text-Based Adventure Game
+
 Here is the basic storyboard/plot:
 ----------------------------------
 
 Setting: The Fictional Land of Arkadia
 
-Main Character: Your Name...
+Main Character: InputYourName
 
 Possible plots:
 Enter your name player...
-Welcome "PlayerName." Beware Hero, you are about to venture into Ancient Land of Arkadia.
+Welcome "Homer." Beware you are about to enter into the Kingdom of Arkadia.
 Everything goes dark
-You wake up in a strange forest. All you can see is an ocean of green. You see 4 prospect that lie ahead you. All you have on you are some plain ragged clothes.
+“You wake up in a strange forest. All you have on you are some plain ragged clothes. All you can see is an ocean of green. You see 4 prospects that lie ahead of you.”
 
 Directions:
 
 South you see the forest grow denser.
-North you see what appears to be river.
-East you see what looks like a ruins of an old castle.
+North you see what appears to be a river.
+East you see what looks like ruins of an old castle.
 West you see what looks like the outlines of a small town.
 
-Which direction do you hero? ...
+Which direction do you choose player? (Enter the disired number)...
 
-North is the town where you have the ability save your progress and buy/make equipment and materials.
+West is the town where you can order food/drinks and buy/make equipment and materials.
 (You can't enter the town without killing the feral imp first)
 - Once you kill feral imp it will drop feral imp claws
 If you choose to go north there will be a guard guarding the entrance to the town.
-Only option is to talk to him...(He says) "Hello Traveller, I'm sorry but I can't let a stranger into the town. Maybe if you come back later with something of value, I just might let you in."
+The only option is to talk to him...(He says) "Hello there traveler, I'm sorry but I can't let a stranger into the town. Maybe if you come back later with something of value, I just might let you in."
+  (Once you get the feral imp claws, he will allow you into the town)
 
 In the town there will be 3 options:
 Go to the Tavern
-- In the Tavern you can...
+- In the Tavern, you can order food/drinks to replenish health (very few health bar back)
+- There will be an ominous man that will give you a key.
+- There will be a bartender who will give you some herbs.
+  - Make up the story and dialogues later
+
 Go to the Blacksmith
-- In the smithery you can...
-Go to the shopkeeper
-- In the shop you can...
+- In the smithery, you can make new weapons/amour. You will need to provide the smith with material and he will craft what you want for a set price.
+  - Ex: You have the feral imp claws (give it to him) and for 5 gold coins he will make you an imp dagger (damage: 5)
+  - Here you also buy weapons and armor straight up for set prices.
+
+Go to the Apothecary
+- In the Apothecary, you can buy medicine/potions to greatly restore health and give herbs to make medicine for free.
+
+East - Ruins
+“As you near the There are trolls that have taken over the abandoned castle. Nature has reclaimed the place, and it is overgrown with plants and vines. A small troll jumps in front of you, and screams in an unintelligible language.”
+What do you do player? Input the number which indicates your desired action.
+1. Fight it
+(If imp has not been defeated/no weapon) - “You see that the troll is holding a knife. It’s better to run and not get into danger.” You get sent back to the crossroads
+(If imp has been defeated and you have a weapon) - fight starts
+2. Runaway
+
+South - You venture deeper into the forest.
+“You venture deeper into the forest and the vines start growing wilder and the wind starts howling more furiously.
+You stumble across a bush and you realize that something is moving behind it.
+Suddenly a Feral Imp jumps up and tackles you!
+You have encountered a Feral Imp. What do you do player? Input the number which indicates your desired action. ”
+1. Run away
+2. Fight back.
+
+North - River
+“You venture closer to the river”
+You see what looks like a slumbering beast. Upon closer inspection, you realize that it is a goliath river serpent.”
+(If you have defeated the other monsters) “As you near the giant serpent, you accidentally step on a twig, which awakens the river serpent. It darts rapidly at you and starts coiling itself around you. What do you do player? Input the number which indicates your desired action.”
+1. Fight back.
+2. Try to wiggle out of the serpent’s grasp.
+(If you haven’t defeated the other monsters) “You try to tread closer but something is stopping you. You physically can’t go any closer to the slumbering serpent. Maybe get stronger by fighting other monsters and come back”
+Automatically bring you back to the crossroad.
+
+
+How do we win: Defeat all monsters surrounding the town you get a victory screen:
+“Hooray player! You have vanquished all the dangerous enemies that threaten the town of Stratham. The town’s folks celebrate your amazing accomplishments.”
 
 Random Ideas:
 -------------
-(For background) You are in the the real world and get sucked into the world of Arkadia.
+(For background) You are in the real world and get sucked into the world of Arkadia.
 Some puzzles for you to solve
 Cool side quest (a wise old man tells u to guess a number between 1 and 50) If you guess right you get a rare material (that you can use to craft a powerful sword).
